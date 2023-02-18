@@ -12,6 +12,7 @@ require (
 	github.com/99designs/keyring v1.2.1
 	github.com/armon/go-metrics v0.4.1
 	github.com/bgentry/speakeasy v0.1.0
+	github.com/btcsuite/btcd v0.22.1
 	github.com/btcsuite/btcd/btcec/v2 v2.3.2
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
 	github.com/cockroachdb/apd/v2 v2.0.2
@@ -149,11 +150,11 @@ require (
 	github.com/zondax/ledger-go v0.14.0 // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/net v0.2.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783 // indirect
-	golang.org/x/sys v0.2.0 // indirect
-	golang.org/x/term v0.2.0 // indirect
-	golang.org/x/text v0.4.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/term v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/api v0.102.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
